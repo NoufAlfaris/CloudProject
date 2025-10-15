@@ -1,0 +1,8 @@
+Summary for globalization_economy.txt
+Inference time: 40.83 seconds
+
+Globalization has both positive and negative impacts on economies and societies. On one hand, it drives economic growth by enabling countries to specialize in industries where they have a competitive advantage, leading to cost savings and innovation. It also fosters international trade, investment, and cultural exchange, promoting collaboration between nations.
+
+On the other hand, globalization can exacerbate income inequality, as developed economies benefit more from globalized markets than developing ones. It may also lead to job losses in local industries due to competition from cheaper imports or foreign capital. Additionally, it contributes to environmental degradation by increasing carbon emissions from global production and transportation.
+
+To address these challenges, globalization must be managed thoughtfully through fair trade policies, sustainable development practices, and international cooperation. When approached ethically, globalization can foster shared prosperity and understanding among nations.

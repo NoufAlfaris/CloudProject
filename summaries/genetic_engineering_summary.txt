@@ -1,0 +1,4 @@
+Summary for genetic_engineering.txt
+Inference time: 32.33 seconds
+
+Genetic engineering is a transformative field in science with wide-ranging applications in medicine, agriculture, and environmental sustainability. It involves modifying an organism's DNA to enhance or introduce specific traits. Key advancements include CRISPR-Cas9, a precise gene-editing tool that enables targeted changes in DNA. In medicine, it offers potential solutions for genetic disorders like sickle cell anemia and cystic fibrosis, as well as personalized cancer therapies. In agriculture, genetically modified crops improve yield, reduce pesticide use, and adapt to harsh conditions but raise ethical concerns about gene transfer and biodiversity loss. The future of genetic engineering hinges on responsible regulation and ethical oversight to ensure safety, transparency, and equitable access for all. Ethical use can lead to a healthier, more sustainable world.

@@ -1,0 +1,4 @@
+Summary for climate_change.txt
+Inference time: 40.13 seconds
+
+Climate change is a pressing global challenge caused by human activities like burning fossil fuels, deforestation, and industrial emissions, which release greenhouse gases that trap heat and disrupt the climate system. Its consequences include rising temperatures, melting ice, sea-level rise, natural disasters, ecosystem threats, food insecurity, health risks, and economic losses. Solutions involve transitioning to renewable energy, adopting sustainable practices, collaboration among governments, businesses, and individuals, raising awareness, and protecting the planet as a shared responsibility for future generations.
