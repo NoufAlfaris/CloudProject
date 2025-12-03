@@ -1,4 +1,0 @@
-Summary for social_media.txt
-Inference time: 40.68 seconds
-
-Social media has revolutionized communication, information sharing, and expression by connecting billions of people worldwide. Platforms like Facebook, Instagram, Twitter (X), and TikTok enable global communication, community building, and advocacy for causes such as social justice, environmental protection, and human rights. However, excessive use can lead to addiction, anxiety, and decreased productivity; it also spreads misinformation and fosters comparison-based insecurity. Privacy concerns persist due to data exploitation. While social media has immense potential, mindful usage—emphasizing digital literacy, critical thinking, and responsibility—is essential to harness its benefits while mitigating harm. Ultimately, social media reflects humanity's ability for unity but requires balance and care.

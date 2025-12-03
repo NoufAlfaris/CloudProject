@@ -1,8 +1,0 @@
-Summary for mental_health_awareness.txt
-Inference time: 70.19 seconds
-
-Mental health is crucial for fostering compassionate and resilient societies. It involves emotional, psychological, and social well-being, impacting how individuals handle stress, relate to others, and make decisions. Despite its importance, stigma and misunderstanding often prevent people from seeking help.
-
-Common mental health issues include anxiety, depression, bipolar disorder, and schizophrenia, influenced by genetic, biological, environmental, and psychological factors. Promoting awareness requires education on emotional well-being, encouraging open discussions, and providing access to support services within schools, workplaces, and communities.
-
-Technology enhances accessibility through apps and online counseling, while social media can increase stress and isolation. Balancing digital engagement with real-world connections is vital. Mental health, like physical health, deserves respect and support, emphasizing that seeking help is a strength, not weakness.
